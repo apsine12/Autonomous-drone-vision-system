@@ -1,31 +1,13 @@
-#Autonomous drone Vision system
-1. Core Components:
-Cameras/Sensors: Typically includes RGB cameras, depth cameras, LiDAR, infrared, or thermal sensors for environment sensing.
+DroneVision
+A simple computer vision system for drones that identifies objects and follows paths.
 
-Onboard Computer: Processes sensor data in real-time using specialized hardware like NVIDIA Jetson or Qualcomm Snapdragon platforms.
+About
+This is a project made by Sunref and gm64x for the Computer Vision class.
 
-Software Algorithms: AI and computer vision algorithms perform object detection, tracking, navigation, and obstacle avoidance.
+Description
+This project implements computer vision algorithms on a drone to:
 
-
-2. Key Functionalities
-
-Simultaneous Localization and Mapping (SLAM): Enables the drone to build a map of an unknown environment while keeping track of its position.
-
-Object Detection and Recognition: Identifies objects (like humans, vehicles, buildings) using deep learning models.
-
-Path Planning and Navigation: Determines optimal flight paths while avoiding obstacles.
-
-Autonomous Decision Making: Uses data from the vision system to make real-time flight decisions.
-
-
-3. Applications
-
-Surveillance and Security
-
-Search and Rescue
-
-Agriculture Monitoring
-
-Infrastructure Inspection
-
-Delivery Services
+Detect and classify objects in real-time
+Identify paths in the environment
+Navigate autonomously by following these paths
+The system processes video feed from the drone's camera to recognize objects such as vehicles, buildings, people, and obstacles. Using edge detection and path recognition algorithms, it can identify walkways, roads, or designated routes and guide the drone to follow them while avoiding detected obstacles.
