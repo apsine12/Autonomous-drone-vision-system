@@ -1,12 +1,12 @@
-DroneVision
+AUTONOMOUS DRONE VISION SYSTEM
 
 A simple computer vision system for drones that identifies objects and follows paths.
 
-About
+ABOUT
 
 This is a project made by Sunref and gm64x for the Computer Vision class.
 
-Description
+DESCRIPTION
 
 This project implements computer vision algorithms on a drone to:
 
