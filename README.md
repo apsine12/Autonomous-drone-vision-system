@@ -1,5 +1,4 @@
 # Autonomous-drone-vision-system
-# DroneAI-Vision-Navigator
 ![Logo](https://i.imgur.com/l3ajfEU.png)
 
 Autonomous drone vision system using ROS and PyTorch for real-time object classification. Enables drones to make informed decisions based on their surroundings.
