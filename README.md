@@ -1,10 +1,13 @@
 DroneVision
+
 A simple computer vision system for drones that identifies objects and follows paths.
 
 About
+
 This is a project made by Sunref and gm64x for the Computer Vision class.
 
 Description
+
 This project implements computer vision algorithms on a drone to:
 
 Detect and classify objects in real-time
